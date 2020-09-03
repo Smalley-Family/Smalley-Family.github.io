@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
+title: "Dr. Smalley Creation 101"
 include:
   - index.md
-  - laser.md
-  - test.html
